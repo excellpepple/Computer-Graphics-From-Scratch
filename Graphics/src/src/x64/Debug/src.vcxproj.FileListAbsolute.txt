@@ -1,0 +1,2 @@
+D:\Github\Computer-Graphics-From-Scratch\Graphics\src\x64\Debug\glfw3.dll
+D:\Github\Computer-Graphics-From-Scratch\Graphics\src\src\x64\Debug\src.vcxproj.Up2Date
